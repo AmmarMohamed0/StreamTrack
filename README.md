@@ -53,4 +53,4 @@ StreamTrack is a Python-based tool that combines object detection and tracking u
 *Example of object tracking and movement detection.*
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
