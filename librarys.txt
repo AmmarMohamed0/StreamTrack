@@ -1,2 +1,0 @@
-pip install vidgear==0.3.3
-pip install spyder-kernels==3.0.*
