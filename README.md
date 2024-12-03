@@ -1,5 +1,5 @@
 # StreamTrack
-PolyTrack is a Python-based tool that combines object detection and tracking using the YOLOv11 model with custom-defined regions of interest (ROIs) for analyzing object movements between predefined areas in a video stream.
+StreamTrack is a Python-based tool that combines object detection and tracking using the YOLOv11 model with custom-defined regions of interest (ROIs) for analyzing object movements between predefined areas in a video stream.
 
 ## Features
 - **Object Detection and Tracking**: Powered by the YOLOv11 model for real-time object tracking.
